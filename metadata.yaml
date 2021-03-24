@@ -1,0 +1,28 @@
+_repo: Eri-asein-Valikoima-runoja_64713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/August_Strindberg
+    - https://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2021-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64713'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Eri asein
+
+  Valikoima runoja'
+url: http://www.gutenberg.org/ebooks/64713

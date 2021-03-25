@@ -1,5 +1,8 @@
 _repo: Eri-asein-Valikoima-runoja_64713
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strindberg, August
@@ -12,6 +15,8 @@ creator:
     - https://sv.wikipedia.org/wiki/August_Strindberg
     - https://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64713#Eri-asein-Valikoima-runoja
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
